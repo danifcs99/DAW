@@ -7,7 +7,7 @@
 <hr>
 
 <h2>
-<li><u>Ejemplo de tabla de contenido</u></li>
+<li>Ejemplo de tabla de contenido</li>
 </h2>
 
 # H1 Titulo
