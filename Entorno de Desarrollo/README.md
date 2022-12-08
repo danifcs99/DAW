@@ -2,7 +2,7 @@
 :boom: :raised_hands:
 
 <p align="center">
-![](https://media.tenor.com/NAqend_mfQgAAAAC/github.gif)
+![](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 </p>
 <hr>
 
