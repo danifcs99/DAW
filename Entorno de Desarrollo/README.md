@@ -27,7 +27,7 @@
 <hr>
 
 <h2>
-<li><u>**Caracteres**</u></li>
+<li><u>Caracteres</u></li>
 </h2>
 
 
@@ -43,7 +43,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> || <abbr title="World W
 <hr>
 
 <h2>
-<li><u>**Links**</u></li>
+<li><u>Links</u></li>
 </h2>
 
 [Links](http://localhost/)
@@ -54,17 +54,17 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> || <abbr title="World W
 <li><u>**Bloques de  Codigo**</u></li>
 </h2>
 
-####Linea de codigo
+#### Linea de codigo
 
 `$ linea de codigo`
 
-####Linea de codigo (Indicar Estilo)
+#### Linea de codigo (Indicar Estilo)
 
     <?php
         echo "Hello world!";
     ?>
 
-####HTML codigo
+#### HTML codigo
 
 ```html
 <!DOCTYPE html>
@@ -79,7 +79,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> || <abbr title="World W
 </html>
 ```
 <h2>
-<li><u>**Imagenes**</u></li>
+<li><u>Imagenes</u></li>
 </h2>
 
 Imagen:
@@ -92,16 +92,16 @@ Imagen:
 <hr>
 
 <h2>
-<li><u>**Listas**</u></li>
+<li><u>Listas</u></li>
 </h2>
 
-####Lista con Punto
+#### Lista con Punto
 
 -  A
 -  B
 -  C
 
-####Lista con punto 2
+#### Lista con punto 2
 
 +  A
 +  B
@@ -113,14 +113,14 @@ Imagen:
     *  C 2
     *  C 3
 
-####Lista de numeros
+#### Lista de numeros
 
 1.  A
 2.  B
 3.  C
 
 <h2>
-<li><u>**Tablas**</u></li>
+<li><u>Tablas</u></li>
 </h2>
 
 Primera Columna  | Segunda Columna
@@ -130,7 +130,7 @@ Contenido  | Contenido
 
 
 <h2>
-<li><u>**Diagrama 1**</u></li>
+<li><u>Diagrama 1</u></li>
 </h2>
 
 ```flow
