@@ -7,7 +7,7 @@
 <hr>
 
 <h2>
-<li><u>**Ejemplo de tabla de contenido**</u></li>
+<li><u>Ejemplo de tabla de contenido</u></li>
 </h2>
 
 # H1 Titulo
@@ -17,7 +17,7 @@
 ##### H5 Titulo
 ###### H6 Titulo
 <hr>
-# Titulo 1  [Link](https://github.com/pandao/editor.md "Heading link")
+# Titulo 1  [Link]()
 ## Titulo 2 link [Link](https://github.com/pandao/editor.md "Heading link")
 ### Titulo 3 link [Link](https://github.com/pandao/editor.md "Heading link")
 #### Titulo 4 link [Link](https://github.com/pandao/editor.md "Heading link")
