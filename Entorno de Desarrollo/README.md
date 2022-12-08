@@ -32,9 +32,12 @@
 
 
 ~~Titulo~~
-*Titulo*      _Titulo_
-**Titulo**  __Titulo__
-***Titulo Italica*** ___Titulo Italica___
+*Titulo*     
+_Titulo_
+**Titulo** 
+__Titulo__
+***Titulo Italica***
+___Titulo Italica___
 
 Titulo: X<sub>2</sub>，Titulo: O<sup>2</sup>
 
@@ -51,7 +54,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> || <abbr title="World W
 `<link>` : <https://github.com>
 
 <h2>
-<li><u>**Bloques de  Codigo**</u></li>
+<li><u>Bloques de  Codigo</u></li>
 </h2>
 
 #### Linea de codigo
